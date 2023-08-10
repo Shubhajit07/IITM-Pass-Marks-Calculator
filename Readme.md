@@ -15,4 +15,4 @@ On windows
 py main.py
 ```
 # Credits
-This code is based on a [replit project](https://replit.com/@theshivam7/Python-IITM-Calculator?s=app) by [Shivam Sharma](https://linkedin.com/in/theshivam7)
+This code is based on a [replit project](https://replit.com/@theshivam7/Python-IITM-Calculator?s=app) by [Shivam Sharma](http://github.com/theshivam7)
