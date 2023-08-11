@@ -2,3 +2,4 @@
 .spaceignore
 .env
 Spacefile
+test.*
