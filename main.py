@@ -28,7 +28,7 @@ def calculate():
     required_marks= marks_required(quiz1,quiz2)
     data = {
         'calculated' : True,
-        'marks_required' : round(required_marks/4,2),
+        'marks_required' : round(required_marks/0.4,2),
         'quiz1' : quiz1,
         'quiz2' : quiz2,
         'name' : name
